@@ -1,0 +1,3 @@
+[submodule "tools/NEMU"]
+	path = tools/NEMU
+	url = https://github.com/runninglinuxkernel/NEMU.git
